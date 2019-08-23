@@ -1,4 +1,8 @@
 # Practical-05  - Canvas and Javascript
+---
+
+
+
 
 Canvas is a new tag added in HTML5 and is used to draw images, shapes, and is often used for HTML5 games. All the properties of the canvas (size, color, position, etc) can be hardcoded into the HTML. However the more common approach is to use javascript to modify the canvas at runtime – generally based on some form of user input. 
 Follow the steps below and show your prac supervisor once you’re done.
